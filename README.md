@@ -1,4 +1,4 @@
-# Knowledge Graph-Enhanced RAG System with Multi-Modal Interaction: A Technical Deep Dive
+# Knowledge Graph - Enhanced RAG System with Multi-Modal Interaction: Technical Deep Dive
 
 ## Abstract
 
