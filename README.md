@@ -1,4 +1,4 @@
-# Knowledge Graph-Enhanced RAG System with Multi-Modal Interaction
+# Knowledge Graph - Enhanced RAG System with Multi-Modal Interaction
 
 ## Abstract
 
