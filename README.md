@@ -4,7 +4,9 @@
 
 This white paper presents a novel implementation of a Retrieval-Augmented Generation (RAG) system that combines vector similarity search with knowledge graph capabilities. The system incorporates multi-modal interaction through voice interfaces and integrates with various document sources. We detail the architecture, implementation, and potential improvements of this system that aims to provide more contextually aware and accurate responses to user queries.
 
+
 ![GraphRAG Execution](GraphRAG.png)
+
 
 ## 1. Introduction
 
